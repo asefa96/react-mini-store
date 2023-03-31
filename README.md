@@ -1,6 +1,13 @@
 # react-mini-store
 A Simple React Mini Store
 
+
+# Installation
+
+```
+npm install @asefa96/react-mini-store
+```
+
 ## Usage
 
 ```javascript
